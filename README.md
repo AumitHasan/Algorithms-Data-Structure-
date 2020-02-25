@@ -23,7 +23,7 @@ In this repository I have uploaded most of the code from this list.
 16.	Dijkstra
 17.	Floyd Warshall
 18.	Strongly Connected Component
-19.	Stale Marriage Problem
+19.	Stable Marriage Problem
 20.	Diameter of Tree
 21.	Longest Path Problem
 22.	Dynamic programming 
