@@ -1,7 +1,7 @@
 # Algorithms_and_Data_Structure
 
 I am a Competetive Programming enthosiastic. At my competitive programming career, I have learned lots of Algorithms and Data Structure.  It was a journey with Fun and lots of memory.
-Here is the list of topics I have learned (May be few topics are missing).
+Here is the list of some topics I have learned.
 
 In this repository I have uploaded most of the code from this list.
 
